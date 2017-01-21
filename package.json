@@ -6,21 +6,7 @@
   "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com> (https://github.com/ivoputzer)",
   "keywords": [
     "m.icro",
-    "m-test",
-    "mtest",
-    "assert",
-    "expect",
-    "should",
-    "context",
-    "describe",
-    "it",
-    "test",
-    "sync",
-    "async",
-    "recursive",
-    "skip",
-    "beforeEach",
-    "afterEach"
+    "m-test"
   ],
   "repository": {
     "type": "git",
@@ -29,10 +15,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ivoputzer/m-test/issues"
-  },
-  "standard": {
-    "globals": [
-      "test"
-    ]
   }
 }
